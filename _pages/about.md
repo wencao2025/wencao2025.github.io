@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a first-year Phd student from Department of Electrical and Electronic Engineering, The University of Hong Kong. I am fortunate to be advise by [Prof.Evan Peng](http://eee.hku.hk/~evanpeng/). Previously, I received my Master's degree in Optical Engineering from Zhejiang University, fortunate to be advised by [Prof.Cuifang Kuang](https://person.zju.edu.cn/cfkuang). Previously, I received my Bachelor's degree in Opto-Electronics Information Science and Engineering from Zhejiang University. My research interests include computational imaging. Specifically I am working on phase retrieval and inverse algorithms.
+I'm a second-year Phd student from Department of Electrical and Electronic Engineering, The University of Hong Kong. I am fortunate to be advise by [Prof.Evan Peng](http://eee.hku.hk/~evanpeng/). Previously, I received my Master's degree in Optical Engineering from Zhejiang University, fortunate to be advised by [Prof.Cuifang Kuang](https://person.zju.edu.cn/cfkuang). Previously, I received my Bachelor's degree in Opto-Electronics Information Science and Engineering from Zhejiang University. My research interests include computational imaging. Specifically I am working on phase retrieval and inverse algorithms.
 You can find my [CV](../assets/CV20250509.pdf) here.
 
 
